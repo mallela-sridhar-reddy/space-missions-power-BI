@@ -10,7 +10,7 @@ the launch, the company responsible, and the name, price, and status of the rock
 
 ## About the report :-
 
-**Aim** : 
+**Aim** : To Find,
 1) How have rocket launches trended across time?
 2) Which companies have had the most successful space missions?
 3) which rocket has been used for the most space missions? is it still active?
