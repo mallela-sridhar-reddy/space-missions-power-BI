@@ -18,7 +18,7 @@ performance, monitor trend from 1960's to present.
 # Screenshots of Power BI *Adventure Works* Final Report :-
 
 ## Report View : 
-### 1)Summary -![Report View - Exec Summary](https://user-images.githubusercontent.com/98680598/177624493-473a841b-d3eb-4869-af60-f8ad2472761c.jpg)
+### 1)Summary -![Screenshot 2024-03-06 160447](https://github.com/mallela-sridhar-reddy/space-missions-power-BI/assets/115725595/ef4c9d85-34a7-42ad-92d1-91a37acc8822)
 
 
 All the source CSV files were made available in the github repository itself. 
