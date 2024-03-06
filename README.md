@@ -2,11 +2,18 @@
 
 This report was done as a portfolio project by *Sridhar Reddy* to showcase my data analyst skills.
 
+# space missions
+
+All space missions from 1957 to August 2022, including details on the location, date, and result of
+the launch, the company responsible, and the name, price, and status of the rocket used for th mission.
+
+
 ## About the report :-
 
-**Aim** : design and execute an end to end power BI report from scratch to track (total missions, successful missions, failures, success rate), compare regional 
-performance, monitor trend from 1960's to present.
-
+**Aim** : 
+1) How have rocket launches trended across time?
+2) Which companies have had the most successful space missions?
+3) which rocket has been used for the most space missions? is it still active?
 
 ## Tasks Performed through the entire business intelligence workflow: :-
 
