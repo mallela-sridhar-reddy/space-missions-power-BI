@@ -1,3 +1,5 @@
+[Live dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiOGJlY2Q1ZjQtOTY3MS00MWIxLTk0Y2MtNGNjMGI0YmE3NzQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 # Space Missions Report-PowerBI
 
 This report was done as a portfolio project by *Sridhar Reddy* to showcase my data analyst skills.
